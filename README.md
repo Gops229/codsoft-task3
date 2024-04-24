@@ -2,11 +2,11 @@
 
 This is a real-time chat application built using HTML, CSS, JavaScript, Node.js, and WebSocket (Socket.io). It enables users to send and receive messages in real-time.
 
-[!screenshot](scrnsht-1.png)
+![screenshot](scrnsht-1.png)
 
-[!screenshot](scrnsht-2.png)
+![screenshot](scrnsht-2.png)
 
-[!screenshot](scrnsht-3.png)
+![screenshot](scrnsht-3.png)
 ## Features
 
 - Chat rooms: Users can join different chat rooms to communicate with others.
